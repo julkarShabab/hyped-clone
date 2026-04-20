@@ -6,7 +6,7 @@ export default function Footer() {
     >
       <div className="px-8 md:px-16 pt-12 pb-6">
 
-        {/* Main grid — left side empty for GETHYPED, right side content */}
+        {/* Main grid */}
         <div className="flex justify-end">
           <div className="flex gap-16 md:gap-24 items-start">
 
